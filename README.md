@@ -8,4 +8,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charles-hydes/)  
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play both piano and guitar
-- 📊 Learning tracker 
+- 📊[Learning tracker] (https://github.com/HYD3S/LearningTracker/blob/main/README.md)
