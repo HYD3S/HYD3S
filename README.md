@@ -1,4 +1,5 @@
 ### Welcome to my profile! 👋
+![Vanilla-1s-280px](https://user-images.githubusercontent.com/107624221/177596344-1b7d0eab-eac9-4265-b48b-13b8ea5d9a9e.gif)
 
 - 🔭 I’m currently working as a university student
 - 🌱 I’m currently learning to enhance my python skills
