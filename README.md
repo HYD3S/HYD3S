@@ -1,4 +1,4 @@
-![S2l2NsJr](https://user-images.githubusercontent.com/107624221/177597017-344a075a-bdd3-4e17-a328-8e63946b7db8.gif)
+![O1hd6MN5](https://user-images.githubusercontent.com/107624221/177597082-4e528f0d-4e76-44db-89b5-e0dd24aeabac.gif)
 
 ### Welcome to my profile! 👋
 - 🔭 I’m currently working as a university student
