@@ -1,6 +1,6 @@
-### Welcome to my profile! 👋
-![S2l2NsJr](https://user-images.githubusercontent.com/107624221/177596864-489d42ec-e887-4f9c-ae5d-043c2d0c0b64.gif)
+![S2l2NsJr](https://user-images.githubusercontent.com/107624221/177597017-344a075a-bdd3-4e17-a328-8e63946b7db8.gif)
 
+### Welcome to my profile! 👋
 - 🔭 I’m currently working as a university student
 - 🌱 I’m currently learning to enhance my python skills
 - 👯 I’m looking to collaborate on python projects
